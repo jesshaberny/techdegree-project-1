@@ -87,8 +87,7 @@ header .profile-image:hover {
 } 
 
 .name {
-font-weight: 700;
-
+font-weight: bolder;
 }
 .location {
   background-color: black;
