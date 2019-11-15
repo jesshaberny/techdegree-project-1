@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: black;
 }
 a:hover {
   color: #6633ff;
@@ -52,7 +52,8 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: black
+  color: #999;
+  color: 
 }
 
 header {
@@ -85,7 +86,7 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 .location {
-  background-color: #efefef;
+  background-color: #999;
   color: black;
 }
 .card {
