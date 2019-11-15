@@ -86,8 +86,8 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 .location {
-  background-color: #999;
-  color: black;
+  background-color: black;
+  color: white;
 }
 .card {
   margin: 30px;
