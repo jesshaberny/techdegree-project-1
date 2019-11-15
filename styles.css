@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Lato', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: white;
 }
 /* Link Styles */
 
@@ -94,7 +94,7 @@ header .profile-image:hover {
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #fff;
+  background: #f7f5f0;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
