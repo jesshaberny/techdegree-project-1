@@ -23,7 +23,7 @@ a:hover {
 
 /* Section Styles */
 
-.main-nav {
+.menu {
   width: 100%;
   background: white;
   min-height: 30px;
@@ -31,7 +31,8 @@ a:hover {
   position: fixed;
   text-align: center;
 }
-.nav .nav {
+
+.links {
   display: flex;
   justify-content: space-around;
   font-weight: 700;
@@ -40,19 +41,19 @@ a:hover {
   padding: 0;
 }
 
-.nav .name {
+.menu .name {
     display: block;
     margin-right: auto;
     color: black;
     font-weight: bolder;
 }
-.nav li {
+.links li {
   padding: 5px 10px 10px 10px;
 }
-.nav a {
+.links a {
   transition: all .5s;
 }
-.nav a:hover {
+.links a:hover {
   color: #999;
 }
 
@@ -206,7 +207,7 @@ a.social:hover {
     min-height: 470px;
   }
 
-  .nav {
+  .menu {
     max-width: 1200px;
     padding: 0 30px;
   }
