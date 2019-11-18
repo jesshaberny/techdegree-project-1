@@ -30,7 +30,6 @@ a:hover {
   padding: 10px;
   position: fixed;
   text-align: center;
-  font-weight: 700;
 }
 
 .links {
@@ -45,7 +44,6 @@ a:hover {
     display: block;
     margin-right: auto;
     color: black;
-    font-weight: bolder;
 }
 
 .links li {
@@ -87,10 +85,6 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 } 
-
-.name {
-font-weight: bolder;
-}
 
 .name-experience {
   margin-top: 150px;
