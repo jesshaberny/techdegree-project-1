@@ -115,6 +115,12 @@ font-weight: bolder;
   border-color: #ff99ff;
 }
 
+.otto-image {
+width: 300px;
+height: 300px;
+
+}
+
 h2 {text-align: center;
 }
 
