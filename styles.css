@@ -115,15 +115,16 @@ font-weight: bolder;
   border-color: #ff99ff;
 }
 
-.otto-image {
-width: 300px;
-height: 300px;
 
-}
 
 h2 {text-align: center;
 }
 
+img {
+  width: 100%;
+  height: auto;
+ }
+ 
 ul.skills {
   padding: 0;
   text-align: center;
