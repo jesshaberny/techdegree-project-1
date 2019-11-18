@@ -30,12 +30,12 @@ a:hover {
   padding: 10px;
   position: fixed;
   text-align: center;
+  font-weight: 700;
 }
 
 .links {
   display: flex;
   justify-content: space-around;
-  font-weight: 700;
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
